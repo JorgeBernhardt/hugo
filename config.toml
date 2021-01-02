@@ -55,7 +55,7 @@ URL = "contact"
 weight = 4
 
 [[menu.main]]
-name = "Sample Page"
+name = "My Page"
 URL = "sample-page"
 weight = 5
 
